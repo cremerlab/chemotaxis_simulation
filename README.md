@@ -5,10 +5,10 @@
 This python code can be used to numerically solve the Growth Expansion Model to investigate the growth expansion dynamics of a population of chemotactic cells. Code can also used to study competition and selection within the 
 expanding documentions.
 The Growth-Expansion model and its biological context is introduced our manuscript:
-- J.Cremer, T.Honda, Y.Tang, J. Wong-Ng, M.Vergassola, T.Hwa. "Chemotaxis as a navigation strategy to thrive in nutrient-replete environments
+- J.Cremer, T.Honda, Y.Tang, J.Wong-Ng, M.Vergassola, T.Hwa. Chemotaxis as a navigation strategy to thrive in nutrient-replete environments
 
 Code can also be used to study competition and selection dynamics, as in our manuscript:
-- W.Liu, J.Cremer, D.Li, T.Hwa, C.Liu. "An evolutionary stable strategy to colonize  spatially extended habitats"
+- W.Liu, J.Cremer, D.Li, T.Hwa, C.Liu. An evolutionary stable strategy to colonize  spatially extended habitats
 
 August 2019, Jonas Cremer and all coauthors.
 
